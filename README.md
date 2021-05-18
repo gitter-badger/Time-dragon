@@ -7,3 +7,4 @@
 - 📫 How to reach me: Make a discussion here.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: MissingNo. is my favorite Pokemon.
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chaos-emerald&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
