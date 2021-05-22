@@ -11,4 +11,5 @@
 - I used to use Scratch (I was Ilikesonic100 there)
 - I like GitHub :octocat:
 ### My trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Time-dragon)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Time-dragon&no-bg=true
+)](https://github.com/ryo-ma/github-profile-trophy)
