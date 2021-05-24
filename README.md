@@ -12,6 +12,7 @@
 - I like GitHub :octocat:
 - I am a Sonic fan :shipit:
 - I like object shows :basecampy:
-### My trophies
+### My trophies and stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Time-dragon&no-bg=true
 )](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Time-dragon)](https://github.com/anuraghazra/github-readme-stats)
