@@ -8,6 +8,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: MissingNo. is my favorite Pokemon.
 ### My trophies and stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=Time-dragon&no-bg=true
+[![trophy](https://github-profile-trophy.vercel.app/?username=Time-dragon&theme=darkhub)
 )](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Time-dragon)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Time-dragon&show_icons=true&theme=dark)
