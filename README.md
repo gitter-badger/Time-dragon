@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+[![Join the chat at https://gitter.im/Time-chat/community](https://badges.gitter.im/Time-chat/community.svg)](https://gitter.im/Time-chat/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - 🔭 I’m currently working on stuff in repl (I'm ChaosEmerald there)
 - 🌱 I’m currently learning how to code
 - 👯 I’m looking to collaborate on The Cat's Meow.
